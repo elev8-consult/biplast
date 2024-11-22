@@ -1,0 +1,1 @@
+<?php /* Template Name: About Us Template */ get_header(); ?><div id="react-root" data-page="about-us"></div><?php get_footer(); ?>
